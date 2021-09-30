@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="testStyle.css">
+    <link rel="stylesheet" href="../../public/styles/assignItemsToRep.css">
     <title>Test</title>
 </head>
 
 <body>
-    <?php require '../header.php'; ?>
+    <?php require 'view_headerType.php'; ?>
 
     <br><br><br><br><br>
 

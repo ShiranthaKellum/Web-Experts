@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../../public/styles/viewStocks.css">
     <title>View Stocks</title>
 </head>
 <body>
-    <?php require 'header.php'; ?>
+    <?php require 'view_headerType.php'; ?>
 
     <br><br><br>
 
